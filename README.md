@@ -1,4 +1,4 @@
-# constrained-hmi-gesture-comparison
+# Comparative Analysis of Motion and Vision-Based Gesture Recognition for Constrained HMI Systems
 Comparative study of IMU- and vision-based TinyML gesture recognition for constrained HMI systems, evaluating accuracy, latency, memory usage, and efficiency trade-offs.
 
 human-machine interaction 
